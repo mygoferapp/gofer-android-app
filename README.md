@@ -1,1 +1,0 @@
-# gofer-android-app
